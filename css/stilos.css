@@ -1,0 +1,65 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}   
+body {
+    background-color: rgb(249, 250, 250);
+}
+#redessociales{
+    background-color: rgb(163, 1, 1);
+    width: 100%;
+    height: 50px;
+    color: azure;
+}
+#menulogo{
+    background-color: rgb(89, 129, 156);
+    width: 100%;
+    height: 100px;
+    display: flex;
+}
+.logo{
+    width: 30%;
+    height: 100px;
+    background-color: antiquewhite;
+}
+.menu{
+    width: 70%;
+    height: 100px;
+    background-color: rgb(158, 137, 218);
+}
+.slider{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    background-color: rgb(157, 172, 21);
+}
+.as1{
+    width: 30%;
+    height: 100px;
+    text-align: center;
+    background-color: antiquewhite;
+}
+.as2{
+    width: 40%;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(158, 137, 218);
+}
+.as3{
+    width: 30%;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(216, 22, 97);
+}
+.texto{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(44, 149, 175);
+}
+.piedepagina{
+    width: 100%;
+    height: 129px;
+    text-align: center;
+    background-color: rgb(202, 58, 2);
+}
